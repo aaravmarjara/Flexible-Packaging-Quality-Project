@@ -65,8 +65,3 @@ I built this project to apply my newly acquired Python skills to a practical pro
 ### Production Report (Excel)
 ![Excel Report](Screenshot%202026-11-08%20221158.png)
 
-### Program Output
-![Program Output](screenshots/program_output.png)
-
-### Excel Report
-![Excel Report](screenshots/excel_report.png)
