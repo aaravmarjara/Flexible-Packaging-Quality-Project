@@ -59,6 +59,12 @@ Through this project, I applied Python concepts such as:
 I built this project to apply my newly acquired Python skills to a practical problem I observed in my family's manufacturing business, and to explore how technology could help improve business operations.
 ## Project Screenshots
 
+### Program Output (VS Code)
+![Program Output](Screenshot%202026-11-08%20221144.png)
+
+### Production Report (Excel)
+![Excel Report](Screenshot%202026-11-08%20221158.png)
+
 ### Program Output
 ![Program Output](screenshots/program_output.png)
 
