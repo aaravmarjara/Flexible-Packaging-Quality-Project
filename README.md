@@ -57,3 +57,10 @@ Through this project, I applied Python concepts such as:
 ## Motivation
 
 I built this project to apply my newly acquired Python skills to a practical problem I observed in my family's manufacturing business, and to explore how technology could help improve business operations.
+## Project Screenshots
+
+### Program Output
+![Program Output](screenshots/program_output.png)
+
+### Excel Report
+![Excel Report](screenshots/excel_report.png)
